@@ -1,0 +1,159 @@
+{
+	"info": { 
+		"bodyweight_lb": 180,
+		"min_cal_per_lb": 15,
+		"max_cal_per_lb": 18,
+		"min_carbs_per_lb": 2,
+		"max_carbs_per_lb": 3,
+		"min_protein_per_lb": 1.1,
+		"max_protein_per_lb": 1.4,
+		"min_fat_per_lb": 0.4,
+		"max_fat_per_lb": 0.5
+	},
+	"meals": [
+		{ 
+			"name": "chocolate milk",
+			"required": true,
+			"preference": 5,
+			"max_servings": 2,
+			"grams_protein": 8,
+			"grams_fat": 8,
+			"grams_carbs": 30,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "salad",
+			"required": true,
+			"preference": 3,
+			"max_servings": 5,
+			"grams_protein": 2,
+			"grams_fat": 7,
+			"grams_carbs": 9,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "bagel + peanut butter + banana",
+			"required": false,
+			"preference": 4,
+			"max_servings": 2,
+			"grams_protein": 28,
+			"grams_fat": 30,
+			"grams_carbs": 68,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "broccoli",
+			"required": false,
+			"preference": 1,
+			"max_servings": 4,
+			"grams_protein": 2.5,
+			"grams_fat": 0.3,
+			"grams_carbs": 6,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "chicken breast + butter",
+			"required": false,
+			"preference": 4,
+			"max_servings": 3,
+			"grams_protein": 26,
+			"grams_fat": 2.7,
+			"grams_carbs": 0,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "steak + butter + garlic",
+			"required": false,
+			"preference": 7,
+			"max_servings": 2,
+			"grams_protein": 26,
+			"grams_fat": 7,
+			"grams_carbs": 0,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "white rice",
+			"required": false,
+			"preference": 3,
+			"max_servings": 2,
+			"grams_protein": 4.6,
+			"grams_fat": 0.58,
+			"grams_carbs": 41.16,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "pasta + meat sauce",
+			"required": false,
+			"preference": 7,
+			"max_servings": 4,
+			"grams_protein": 14.3,
+			"grams_fat": 2.9,
+			"grams_carbs": 43.1,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "eggs + toast",
+			"required": false,
+			"preference": 4,
+			"max_servings": 2,
+			"grams_protein": 8.8,
+			"grams_fat": 12,
+			"grams_carbs": 14,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "saurkraut",
+			"required": false,
+			"preference": 1,
+			"max_servings": 5,
+			"grams_protein": 1.7,
+			"grams_fat": 0.3,
+			"grams_carbs": 8.1,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "yogurt + honey + berries",
+			"required": false,
+			"preference": 2,
+			"max_servings": 2,
+			"grams_protein": 5,
+			"grams_fat": 13,
+			"grams_carbs": 17,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "canteloupe",
+			"required": false,
+			"preference": 3,
+			"max_servings": 4,
+			"grams_protein": 1.5,
+			"grams_fat": 0.3,
+			"grams_carbs": 14.4,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		},
+		{
+			"name": "scallops in butter",
+			"required": false,
+			"preference": 4,
+			"max_servings": 6,
+			"grams_protein": 17,
+			"grams_fat": 0.7,
+			"grams_carbs": 4.6,
+			"grams_fiber": 0,
+			"grams_alcohol": 0
+		}
+	]
+}
+
