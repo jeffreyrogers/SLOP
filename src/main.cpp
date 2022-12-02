@@ -49,7 +49,6 @@ void solve(simdjson::ondemand::document& data) {
     std::vector<Data> constraint_data;
 
     auto meals = data["meals"].get_array();
-    const double infinity = solver->infinity();
 
     // create variables for LP problem
     for (auto meal : meals) {
